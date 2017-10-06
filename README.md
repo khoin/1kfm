@@ -35,6 +35,10 @@ Like 2048fm
 * Thanks [Werner](http://bpmdj.yellowcouch.org/) for showing me PM/FM synthesis
 * [p01](https://github.com/p01) for such awesome 1k demos that inspired me.
 
+and
+
+* [JS Crush](http://www.iteral.com/jscrush/) to get the filesize down! 
+
 ## L
 
 Public Domain.
