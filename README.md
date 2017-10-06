@@ -2,7 +2,7 @@
 =====
 
 ## What is this?
-This is a 1kilobyte FM (PM) synthesizer that runs in your web browser. You can check out the commented source in uncompressed.html.
+This is a 1kilobyte FM (PM) synthesizer that runs in your web browser. You can check out the commented source in uncompressed.html. This is a step further from [2048fm](https://github.com/khoin/2048fm) which has a somewhat better interface.
 
 ## Features
 
